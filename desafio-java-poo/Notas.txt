@@ -1,8 +1,9 @@
 ## Arquivo de anotações e revisões.
 
 
-Instanciar uma classe abstrata é impossível, no entanto como fazer ela funcionar nas classes que herdam seus atributos?
-Faz-se necessário o uso da implementação do o metodo abstrato.
+1.Instanciar uma classe abstrata é impossível, no entanto como fazer ela funcionar nas classes que herdam seus atributos?
+  Faz-se necessário o uso da implementação do o metodo abstrato.
 
-Em caso do método estar como private, utilizar o metodo de requisição 'get' para acessá-lo.
+2.Em caso do método estar como private, utilizar o metodo de requisição 'get' para acessá-lo.
  
+3.Ao trabalhar com set / hash set, gerar equals e hashcode.
